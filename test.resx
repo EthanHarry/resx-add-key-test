@@ -1,0 +1,1335 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>2.0</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <data xml:space="preserve" name="SignIn">
+        <value>Sign In</value>
+    </data>
+    <data xml:space="preserve" name="Username">
+        <value>Username</value>
+    </data>
+    <data xml:space="preserve" name="Password">
+        <value>Password</value>
+    </data>
+    <data xml:space="preserve" name="LogIn">
+        <value>Log In</value>
+    </data>
+    <data xml:space="preserve" name="ForgotPassword">
+        <value>Forgot Password?</value>
+    </data>
+    <data xml:space="preserve" name="ContinueWithFacebook">
+        <value>Continue with Facebook</value>
+    </data>
+    <data xml:space="preserve" name="ContinueWithLinkedIn">
+        <value>Continue with LinkedIn</value>
+    </data>
+    <data xml:space="preserve" name="Home">
+        <value>Home</value>
+    </data>
+    <data xml:space="preserve" name="ViewCardDetails">
+        <value>View Details</value>
+    </data>
+    <data xml:space="preserve" name="MyProfile">
+        <value>My Profile</value>
+    </data>
+    <data xml:space="preserve" name="MyAvailability">
+        <value>My Availability</value>
+    </data>
+    <data xml:space="preserve" name="Availability">
+        <value>Availability</value>
+    </data>
+    <data xml:space="preserve" name="Settings">
+        <value>Settings</value>
+    </data>
+    <data xml:space="preserve" name="ContactUs">
+        <value>Contact Us</value>
+    </data>
+    <data xml:space="preserve" name="JobDescription">
+        <value>Job Description</value>
+    </data>
+    <data xml:space="preserve" name="JobRequirements">
+        <value>Job Requirements</value>
+    </data>
+    <data xml:space="preserve" name="YourJobApplicationHasBeenSubmitted">
+        <value>Your resume has been submitted. We'll let you know if you receive an offer.</value>
+    </data>
+    <data xml:space="preserve" name="GotIt">
+        <value>Got it</value>
+    </data>
+    <data xml:space="preserve" name="Call">
+        <value>Call</value>
+    </data>
+    <data xml:space="preserve" name="Cancel">
+        <value>Cancel</value>
+    </data>
+    <data xml:space="preserve" name="Assignment">
+        <value>Assignment</value>
+    </data>
+    <data xml:space="preserve" name="NextAssignment">
+        <value>Next Assignment</value>
+    </data>
+    <data xml:space="preserve" name="JobOffer">
+        <value>Job Offer</value>
+    </data>
+    <data xml:space="preserve" name="FirstDay">
+        <value>First Day</value>
+    </data>
+    <data xml:space="preserve" name="ShiftTime">
+        <value>Shift Time</value>
+    </data>
+    <data xml:space="preserve" name="Workdays">
+        <value>Workdays</value>
+    </data>
+    <data xml:space="preserve" name="Transit">
+        <value>Transit</value>
+    </data>
+    <data xml:space="preserve" name="JobNumber">
+        <value>Job Number</value>
+    </data>
+    <data xml:space="preserve" name="Apply">
+        <value>Apply</value>
+    </data>
+    <data xml:space="preserve" name="Applied">
+        <value>Applied</value>
+    </data>
+    <data xml:space="preserve" name="Decline">
+        <value>Decline</value>
+    </data>
+    <data xml:space="preserve" name="Accept">
+        <value>Accept</value>
+    </data>
+    <data xml:space="preserve" name="DeclineOffer">
+        <value>Decline Offer</value>
+    </data>
+    <data xml:space="preserve" name="DeclineOfferIntro">
+        <value>Please let us know why you are declining this offer so we can improve your future job offers and matches.</value>
+    </data>
+    <data xml:space="preserve" name="InAMinute">
+        <value>in a minute</value>
+    </data>
+    <data xml:space="preserve" name="InXMinutesFormat">
+        <value>in {0} minutes</value>
+    </data>
+    <data xml:space="preserve" name="InAnHour">
+        <value>in an hour</value>
+    </data>
+    <data xml:space="preserve" name="InXHoursFormat">
+        <value>in {0} hours</value>
+    </data>
+    <data xml:space="preserve" name="Tomorrow">
+        <value>tomorrow</value>
+    </data>
+    <data xml:space="preserve" name="InXDaysFormat">
+        <value>in {0} days</value>
+    </data>
+    <data xml:space="preserve" name="InOneMonth">
+        <value>in one month</value>
+    </data>
+    <data xml:space="preserve" name="InXMonthsFormat">
+        <value>in {0} months</value>
+    </data>
+    <data xml:space="preserve" name="InOneYear">
+        <value>in one year</value>
+    </data>
+    <data xml:space="preserve" name="InXYearsFormat">
+        <value>in {0} years</value>
+    </data>
+    <data xml:space="preserve" name="AMinuteAgo">
+        <value>a minute ago</value>
+    </data>
+    <data xml:space="preserve" name="XMinutesAgoFormat">
+        <value>{0} minutes ago</value>
+    </data>
+    <data xml:space="preserve" name="AnHourAgo">
+        <value>an hour ago</value>
+    </data>
+    <data xml:space="preserve" name="XHoursAgoFormat">
+        <value>{0} hours ago</value>
+    </data>
+    <data xml:space="preserve" name="Yesterday">
+        <value>yesterday</value>
+    </data>
+    <data xml:space="preserve" name="XDaysAgoFormat">
+        <value>{0} days ago</value>
+    </data>
+    <data xml:space="preserve" name="OneMonthAgo">
+        <value>one month ago</value>
+    </data>
+    <data xml:space="preserve" name="XMonthsAgoFormat">
+        <value>{0} months ago</value>
+    </data>
+    <data xml:space="preserve" name="OneYearAgo">
+        <value>one year ago</value>
+    </data>
+    <data xml:space="preserve" name="XYearsAgoFormat">
+        <value>{0} years ago</value>
+    </data>
+    <data xml:space="preserve" name="OnDateFormat">
+        <value>on {0}</value>
+    </data>
+    <data xml:space="preserve" name="Starts">
+        <value>Starts</value>
+    </data>
+    <data xml:space="preserve" name="Started">
+        <value>Started</value>
+    </data>
+    <data xml:space="preserve" name="PostedFormat">
+        <value>Posted{0}</value>
+    </data>
+    <data xml:space="preserve" name="XMilesFromHomeFormat">
+        <value>{0} miles from home</value>
+    </data>
+    <data xml:space="preserve" name="OneMileFromHome">
+        <value>1 mile from home</value>
+    </data>
+    <data xml:space="preserve" name="XPerHourFormat">
+        <value>{0}/h</value>
+    </data>
+    <data xml:space="preserve" name="MatchXofYFormat">
+        <value>Match {0} of {1}</value>
+    </data>
+    <data xml:space="preserve" name="XOpeningsFormat">
+        <value>{0} openings</value>
+    </data>
+    <data xml:space="preserve" name="OneOpening">
+        <value>1 opening</value>
+    </data>
+    <data xml:space="preserve" name="NoOpenings">
+        <value>No openings left</value>
+    </data>
+    <data xml:space="preserve" name="Temp">
+        <value>Temp</value>
+    </data>
+    <data xml:space="preserve" name="TempToHire">
+        <value>Temp to hire</value>
+    </data>
+    <data xml:space="preserve" name="DirectHire">
+        <value>Direct hire</value>
+    </data>
+    <data xml:space="preserve" name="SelectAContact">
+        <value>Select a contact</value>
+    </data>
+    <data xml:space="preserve" name="Supervisor">
+        <value>Supervisor</value>
+    </data>
+    <data xml:space="preserve" name="LogOut">
+        <value>Log Out</value>
+    </data>
+    <data xml:space="preserve" name="LogoutMessage">
+        <value>Are you sure you want to Log Out?</value>
+    </data>
+    <data xml:space="preserve" name="NotificationSettings">
+        <value>Notification Settings</value>
+    </data>
+    <data xml:space="preserve" name="Account">
+        <value>Account</value>
+    </data>
+    <data xml:space="preserve" name="VersionXFormat">
+        <value>Version {0}</value>
+    </data>
+    <data xml:space="preserve" name="AllowNotificationsMessage">
+        <value>To keep in touch with various types of updates from {0}, please first allow the app to send push notifications, then adjust your preferences below.</value>
+    </data>
+    <data xml:space="preserve" name="AllowNotifications">
+        <value>Allow Notifications</value>
+    </data>
+    <data xml:space="preserve" name="GoToiOSSettings">
+        <value>Go to iOS Settings</value>
+    </data>
+    <data xml:space="preserve" name="AdditionalInformation">
+        <value>Additional Information</value>
+    </data>
+    <data xml:space="preserve" name="JobLocation">
+        <value>Job Location</value>
+    </data>
+    <data xml:space="preserve" name="Parking">
+        <value>Parking</value>
+    </data>
+    <data xml:space="preserve" name="DressCode">
+        <value>Dress Code</value>
+    </data>
+    <data xml:space="preserve" name="RequiredPpe">
+        <value>Required PPE</value>
+    </data>
+    <data xml:space="preserve" name="FoodAndDrink">
+        <value>Food &#38; Drink</value>
+    </data>
+    <data xml:space="preserve" name="Security">
+        <value>Security</value>
+    </data>
+    <data xml:space="preserve" name="ReportTo">
+        <value>Report To</value>
+    </data>
+    <data xml:space="preserve" name="GetDirections">
+        <value>Get Directions</value>
+    </data>
+    <data xml:space="preserve" name="AddToGoogleCalendar">
+        <value>Add to Google Calendar</value>
+    </data>
+    <data xml:space="preserve" name="AddToiPhoneCalendar">
+        <value>Add to iPhone Calendar</value>
+    </data>
+    <data xml:space="preserve" name="RunningLate">
+        <value>Running Late</value>
+    </data>
+    <data xml:space="preserve" name="RunningLateTitle">
+        <value>Running late?</value>
+    </data>
+    <data xml:space="preserve" name="ApiErrorMessageTimeout">
+        <value>Something went wrong and the server could not be reached. Please try again in a moment.</value>
+    </data>
+    <data xml:space="preserve" name="ApiErrorMessageOthers">
+        <value>Something went wrong and we couldn't complete the request. The problem has been reported to our app support team.</value>
+	</data>
+    <data xml:space="preserve" name="Ok">
+        <value>Ok</value>
+    </data>
+    <data xml:space="preserve" name="UserNamePasswordIncorrect">
+        <value>Username or Password is incorrect.</value>
+    </data>
+    <data xml:space="preserve" name="UsernamePasswordMustBeFilled">
+        <value>Username and password must be filled.</value>
+    </data>
+    <data xml:space="preserve" name="CalendarAccess">
+        <value>Calendar Access</value>
+    </data>
+    <data xml:space="preserve" name="CalendarPermissionMessageFormat">
+        <value>{0} would like to access your phone calendar in order to add your First Day information.</value>
+    </data>
+    <data xml:space="preserve" name="NoThanks">
+        <value>No, thanks</value>
+    </data>
+    <data xml:space="preserve" name="Allow">
+        <value>Allow</value>
+    </data>
+    <data xml:space="preserve" name="iPhone">
+        <value>iPhone</value>
+    </data>
+    <data xml:space="preserve" name="Google">
+        <value>Google</value>
+    </data>
+    <data xml:space="preserve" name="CalendarSuccessMessageFormat">
+        <value>Your First Day info has been added to your {0} calendar.</value>
+    </data>
+    <data xml:space="preserve" name="InterviewCalendarSuccessMessageFormat">
+        <value>Your Interview info has been added to your {0} calendar.</value>
+    </data>
+    <data xml:space="preserve" name="CalendarPermissionDeniedTitle">
+        <value>Permission Needed</value>
+    </data>
+    <data xml:space="preserve" name="CalendarPermissionDeniedMessage">
+        <value>Calendar permission is needed to use this feature. Please enable calendar access in your phone settings, then try again.</value>
+    </data>
+    <data xml:space="preserve" name="Notifications">
+        <value>Notifications</value>
+    </data>
+    <data xml:space="preserve" name="MyInfo">
+        <value>My Info</value>
+    </data>
+    <data xml:space="preserve" name="PayStubs">
+        <value>Pay Stubs</value>
+    </data>
+    <data xml:space="preserve" name="MyActivity">
+        <value>My Activity</value>
+    </data>
+    <data xml:space="preserve" name="Edit">
+        <value>Edit</value>
+    </data>
+    <data xml:space="preserve" name="PersonalInformation">
+        <value>Personal Information</value>
+    </data>
+    <data xml:space="preserve" name="EmergencyContact">
+        <value>Emergency Contact</value>
+    </data>
+    <data xml:space="preserve" name="PastAssignments">
+        <value>Past Assignments</value>
+    </data>
+    <data xml:space="preserve" name="GreatAlmostDone">
+        <value>Great! You're almost done.</value>
+    </data>
+    <data xml:space="preserve" name="CompleteApplicationFormat">
+        <value>Before you can begin using the app, you must complete your application on the {0} website.</value>
+    </data>
+    <data xml:space="preserve" name="GoToBrandWebsite">
+        <value>Go to Website</value>
+    </data>
+    <data xml:space="preserve" name="AccountNotEligibleNow">
+        <value>Unfortunately, your account isn't eligible right now.</value>
+    </data>
+    <data xml:space="preserve" name="ReapplyMessageFormat">
+        <value>We know this isn't the answer you were hoping for. Feel free to re-apply after {0}.</value>
+    </data>
+    <data xml:space="preserve" name="AccountNotEligible">
+        <value>Unfortunately, your account isn't eligible.</value>
+    </data>
+    <data xml:space="preserve" name="IneligibleMessage">
+        <value>We know this isn't the answer you were hoping for.</value>
+    </data>
+    <data xml:space="preserve" name="AccountInactive">
+        <value>Your account is inactive.</value>
+    </data>
+    <data xml:space="preserve" name="ReapplyWithBrandFormat">
+        <value>Before you can begin using the app, you must re-apply on the {0} website.</value>
+    </data>
+    <data xml:space="preserve" name="ApplyNow">
+        <value>Apply Now</value>
+    </data>
+    <data xml:space="preserve" name="BranchNotAllowedFormat">
+        <value>The {0} mobile app roll-out is coming to your area soon. All branches will be live by June 2018.</value>
+    </data>
+    <data xml:space="preserve" name="CouldntSignUpFormat">
+        <value>Unfortunately we couldn't sign you up with {0}.</value>
+    </data>
+    <data xml:space="preserve" name="CallOurTeam">
+        <value>Call our team and we would be happy to help you find a possible solution.</value>
+    </data>
+    <data xml:space="preserve" name="CallSupport">
+        <value>Call Support</value>
+    </data>
+    <data xml:space="preserve" name="CallBrandFormat">
+        <value>Call {0}</value>
+    </data>
+    <data xml:space="preserve" name="FinishOnboarding">
+        <value>Please finish your onboarding.</value>
+    </data>
+    <data xml:space="preserve" name="GoToWeb">
+        <value>Go to Web</value>
+    </data>
+    <data xml:space="preserve" name="Gross">
+        <value>Gross</value>
+    </data>
+    <data xml:space="preserve" name="Net">
+        <value>Net</value>
+    </data>
+    <data xml:space="preserve" name="Hours">
+        <value>Hours</value>
+    </data>
+    <data xml:space="preserve" name="PayStubEmptyTitle">
+        <value>No pay stubs yet</value>
+    </data>
+    <data xml:space="preserve" name="PayStubEmptyText">
+        <value>When you get paid we’ll save your pay information here for easy reference.</value>
+    </data>
+    <data xml:space="preserve" name="Phone">
+        <value>Phone</value>
+    </data>
+    <data xml:space="preserve" name="HomePhone">
+        <value>Home Phone</value>
+    </data>
+    <data xml:space="preserve" name="CellPhone">
+        <value>Cell Phone</value>
+    </data>
+    <data xml:space="preserve" name="XMinutesFormat">
+        <value>{0} Minutes</value>
+    </data>
+    <data xml:space="preserve" name="MoreThanXMinutesFormat">
+        <value>More than {0} minutes</value>
+    </data>
+    <data xml:space="preserve" name="LessThan90MinutesAlertFormat">
+        <value>Your late report has been received by your {0} branch. Please update us again if you will be more than {1} minutes late.</value>
+    </data>
+    <data xml:space="preserve" name="MoreThan90MinutesAlertFormat">
+        <value>Your late report has been received by your {0} branch. Please call {0} if anything changes.</value>
+    </data>
+    <data xml:space="preserve" name="NotComingAlertFormat">
+        <value>Are you sure you can't make it in to work today? Your {0} branch will be notified. You will have to call if you change your mind, and you are still expected to be at work for your next scheduled work day.</value>
+    </data>
+    <data xml:space="preserve" name="NotComing">
+        <value>Not Coming</value>
+    </data>
+    <data xml:space="preserve" name="Confirm">
+        <value>Confirm</value>
+    </data>
+    <data xml:space="preserve" name="NotComingSnackbarFormat">
+        <value>Your call-off has been received by your {0} branch. Please call {0} if your situation changes.</value>
+    </data>
+    <data xml:space="preserve" name="Submit">
+        <value>Submit</value>
+    </data>
+    <data xml:space="preserve" name="NotComingToday">
+        <value>Not coming today?</value>
+    </data>
+    <data xml:space="preserve" name="ConfirmAssignment">
+        <value>Confirm assignment</value>
+    </data>
+    <data xml:space="preserve" name="ConfirmAssignmentBodyFormat">
+        <value>By accepting this job offer, you are agreeing that you have read and meet all job requirements, and will report for work at {0} on {1}.
+
+Do you accept this assignment?</value>
+    </data>
+    <data xml:space="preserve" name="ConfirmAssignmentBodyWithStartTimeFormat">
+        <value>By accepting this job offer, you are agreeing that you have read and meet all job requirements, and will report for work at {0} on {1} at {2}.
+
+Do you accept this assignment?</value>
+    </data>
+    <data xml:space="preserve" name="CongratsOnTheJob">
+        <value>Congrats on the job!</value>
+    </data>
+    <data xml:space="preserve" name="CongratsBody">
+        <value>Now that you're assigned we've added more information in the job details. Check it out so you'll know what to expect. If there is anything else that you need to know, please contact your staffing supervisor as listed in the assignment information.</value>
+    </data>
+    <data xml:space="preserve" name="CheckDetails">
+        <value>Check Details</value>
+    </data>
+    <data xml:space="preserve" name="NoJobsForYou">
+        <value>We don’t have any matched jobs for you at the moment.</value>
+    </data>
+    <data xml:space="preserve" name="AskBrandFormat">
+        <value>Ask {0} about what’s next</value>
+    </data>
+    <data xml:space="preserve" name="CurrentlyAvailable">
+        <value>Currently Available</value>
+    </data>
+    <data xml:space="preserve" name="UnavailableInfo">
+        <value>You are not currently marked as available for work. To get new jobs, set yourself to available</value>
+    </data>
+    <data xml:space="preserve" name="CantSetUnavailable">
+        <value>When your current assignment ends, you’ll be able to set your availability for new assignments.</value>
+    </data>
+    <data xml:space="preserve" name="ReasonImUnavailable">
+        <value>Reason I’m Unavailable</value>
+    </data>
+    <data xml:space="preserve" name="AvailabilityUpdated">
+        <value>Availability updated</value>
+    </data>
+    <data xml:space="preserve" name="XDayJobFormat">
+        <value>{0} day job</value>
+    </data>
+    <data xml:space="preserve" name="XWeekJobFormat">
+        <value>{0} week job</value>
+    </data>
+    <data xml:space="preserve" name="XMonthJobFormat">
+        <value>{0} month job</value>
+    </data>
+    <data xml:space="preserve" name="XYearJobFormat">
+        <value>{0} year job</value>
+    </data>
+    <data xml:space="preserve" name="StartTime">
+        <value>Start Time</value>
+    </data>
+    <data xml:space="preserve" name="EndTime">
+        <value>End Time</value>
+    </data>
+    <data xml:space="preserve" name="Save">
+        <value>Save</value>
+    </data>
+    <data xml:space="preserve" name="SundayFirstLetter">
+        <value>S</value>
+    </data>
+    <data xml:space="preserve" name="MondayFirstLetter">
+        <value>M</value>
+    </data>
+    <data xml:space="preserve" name="TuesdayFirstLetter">
+        <value>T</value>
+    </data>
+    <data xml:space="preserve" name="WednesdayFirstLetter">
+        <value>W</value>
+    </data>
+    <data xml:space="preserve" name="ThursdayFirstLetter">
+        <value>T</value>
+    </data>
+    <data xml:space="preserve" name="FridayFirstLetter">
+        <value>F</value>
+    </data>
+    <data xml:space="preserve" name="SaturdayFirstLetter">
+        <value>S</value>
+    </data>
+    <data xml:space="preserve" name="LeaveWithoutSaving">
+        <value>Leave without saving?</value>
+    </data>
+    <data xml:space="preserve" name="YouHaveNotSavedChanges">
+        <value>You have not saved changes. Are you sure you want to leave and discard your changes?</value>
+    </data>
+    <data xml:space="preserve" name="Discard">
+        <value>Discard</value>
+    </data>
+    <data xml:space="preserve" name="NewJobOffer">
+        <value>New Job Offer</value>
+    </data>
+    <data xml:space="preserve" name="WeFoundAGreatMatchForYou">
+        <value>We found a great match for you. Hurry, check it out and accept the job while it’s still available.</value>
+    </data>
+    <data xml:space="preserve" name="Ignore">
+        <value>Ignore</value>
+    </data>
+    <data xml:space="preserve" name="View">
+        <value>View</value>
+    </data>
+    <data xml:space="preserve" name="Dismiss">
+        <value>Dismiss</value>
+    </data>
+    <data xml:space="preserve" name="CallSasTitle">
+        <value>Questions about your job?</value>
+    </data>
+    <data xml:space="preserve" name="CallSasDetailFormat">
+        <value>Call {0} about your hours, assignments, and more.</value>
+    </data>
+    <data xml:space="preserve" name="CallComDataTitle">
+        <value>Questions about your paycard?</value>
+    </data>
+    <data xml:space="preserve" name="CallComDataDetail">
+        <value>Call ComData to check your balance or report a lost card.</value>
+    </data>
+    <data xml:space="preserve" name="CallNotLogged">
+        <value>Call Not Logged</value>
+    </data>
+    <data xml:space="preserve" name="CallNotLoggedMessageFormat">
+        <value>Due to a connection issue, your call to {0} on {1} at {2} could not be saved in the &quot;My Activity&quot; section of the app. We apologize for the inconvenience.</value>
+    </data>
+    <data xml:space="preserve" name="PositionNotAvailable">
+        <value>Position not available</value>
+    </data>
+    <data xml:space="preserve" name="NoMorePositionsAvailableForOffer">
+        <value>Unfortunately no more positions are available for this offer. We will try to send you another offer soon!</value>
+    </data>
+    <data xml:space="preserve" name="Payments">
+        <value>Payments</value>
+    </data>
+    <data xml:space="preserve" name="Rate">
+        <value>Rate</value>
+    </data>
+    <data xml:space="preserve" name="GrossPay">
+        <value>Gross Pay</value>
+    </data>
+    <data xml:space="preserve" name="NetPay">
+        <value>Net Pay</value>
+    </data>
+    <data xml:space="preserve" name="Deductions">
+        <value>Deductions</value>
+    </data>
+    <data xml:space="preserve" name="TotalDeductions">
+        <value>Total Deductions</value>
+    </data>
+    <data xml:space="preserve" name="EmployeeName">
+        <value>Employee Name</value>
+    </data>
+    <data xml:space="preserve" name="EmployeeNumber">
+        <value>Employee #</value>
+    </data>
+    <data xml:space="preserve" name="Employee">
+        <value>Employee</value>
+    </data>
+    <data xml:space="preserve" name="SsnFormat">
+        <value>SSN: XXX-XX-{0}</value>
+    </data>
+    <data xml:space="preserve" name="CheckNumber">
+        <value>Check #</value>
+    </data>
+    <data xml:space="preserve" name="CheckDate">
+        <value>Check Date</value>
+    </data>
+    <data xml:space="preserve" name="PayEndDate">
+        <value>Pay End Date</value>
+    </data>
+    <data xml:space="preserve" name="Paycard">
+        <value>Paycard</value>
+    </data>
+    <data xml:space="preserve" name="WeDidntFindAccountFormat">
+        <value>We didn’t find a {0} profile associated with your {1} account. Please try again with a different {1} account, or try a different login method.</value>
+    </data>
+    <data xml:space="preserve" name="Facebook">
+        <value>Facebook</value>
+    </data>
+    <data xml:space="preserve" name="LinkedIn">
+        <value>LinkedIn</value>
+    </data>
+    <data xml:space="preserve" name="FirstName">
+        <value>First Name</value>
+    </data>
+    <data xml:space="preserve" name="PreferredFirstName">
+        <value>Preferred First Name</value>
+    </data>
+    <data xml:space="preserve" name="LastName">
+        <value>Last Name</value>
+    </data>
+    <data xml:space="preserve" name="PhoneNumber">
+        <value>Phone Number</value>
+    </data>
+    <data xml:space="preserve" name="EmailAddress">
+        <value>E-mail Address</value>
+    </data>
+    <data xml:space="preserve" name="AddressLine1">
+        <value>Address Line 1</value>
+    </data>
+    <data xml:space="preserve" name="AddressLine2">
+        <value>Address Line 2 (optional)</value>
+    </data>
+    <data xml:space="preserve" name="City">
+        <value>City</value>
+    </data>
+    <data xml:space="preserve" name="State">
+        <value>State</value>
+    </data>
+    <data xml:space="preserve" name="Zip">
+        <value>Zip</value>
+    </data>
+    <data xml:space="preserve" name="ZipCode">
+        <value>Zip Code</value>
+    </data>
+    <data xml:space="preserve" name="Other">
+        <value>Other</value>
+    </data>
+    <data xml:space="preserve" name="HomeAddress">
+        <value>Home Address</value>
+    </data>
+    <data xml:space="preserve" name="MailingAddress">
+        <value>Mailing Address</value>
+    </data>
+    <data xml:space="preserve" name="EditMyInfo">
+        <value>Edit My Info</value>
+    </data>
+    <data xml:space="preserve" name="ContactInformation">
+        <value>Contact Information</value>
+    </data>
+    <data xml:space="preserve" name="Name">
+        <value>Name</value>
+    </data>
+    <data xml:space="preserve" name="NotNow">
+        <value>Not Now</value>
+    </data>
+    <data xml:space="preserve" name="NotificationsDialogTitleAvailability">
+        <value>Availability Update Reminders</value>
+    </data>
+    <data xml:space="preserve" name="NotificationsDialogMessageAvailabilityFormat">
+        <value>{0} can send you reminders to keep your availability for new assignments up-to-date. Would you like to allow notifications?</value>
+    </data>
+    <data xml:space="preserve" name="NotificationsDialogTitleAssignment">
+        <value>Get Assignment Reminders</value>
+    </data>
+    <data xml:space="preserve" name="NotificationsDialogMessageAssignmentFormat">
+        <value>{0} can send you reminders before your first day on your new assignment. Would you like to allow notifications?</value>
+    </data>
+    <data xml:space="preserve" name="NotificationsDialogTitleApplied">
+        <value>Get Job Offers</value>
+    </data>
+    <data xml:space="preserve" name="NotificationsDialogMessageAppliedFormat">
+        <value>{0} can send you messages to let you know about new job offers. Would you like to allow notifications?</value>
+    </data>
+    <data xml:space="preserve" name="NotificationsDialogTitlePayStub">
+        <value>Pay Stub Alerts</value>
+    </data>
+    <data xml:space="preserve" name="NotificationsDialogMessagePayStubFormat">
+        <value>{0} can send you alerts when a new Pay Stub is available. Would you like to allow notifications?</value>
+    </data>
+    <data xml:space="preserve" name="NotificationsDialogTitleInbox">
+        <value>Allow Notifications</value>
+    </data>
+    <data xml:space="preserve" name="NotificationsDialogMessageInboxFormat">
+        <value>{0} can send you alerts about Job Offers, Assignments, Pay Stubs, and more. Would you like to allow notifications?</value>
+    </data>
+    <data xml:space="preserve" name="Cell">
+        <value>Cell</value>
+    </data>
+    <data xml:space="preserve" name="MailingAddressSameAsHomeAddress">
+        <value>Mailing address same as home address</value>
+    </data>
+    <data xml:space="preserve" name="SelectAnOption">
+        <value>Select an option</value>
+    </data>
+    <data xml:space="preserve" name="WaitingForServer">
+        <value>Waiting for the server to respond. Please wait.</value>
+    </data>
+    <data xml:space="preserve" name="AppUpdate">
+        <value>App Update</value>
+    </data>
+    <data xml:space="preserve" name="NewVersionAvailable">
+        <value>A new version of the {0} app is available, and your current version is no longer supported. Please update to continue using the app.</value>
+    </data>
+    <data xml:space="preserve" name="Update">
+        <value>Update</value>
+    </data>
+    <data xml:space="preserve" name="YouHaveNotReceivedAnyNotificationsYet">
+        <value>You haven't received any notifications yet</value>
+    </data>
+    <data xml:space="preserve" name="WhenWeSendYouSomethingCheckBackLater">
+        <value>When we send you something it will appear here, so check back later.</value>
+    </data>
+    <data xml:space="preserve" name="ActivityEmptyTitle">
+        <value>Looks like you don’t have any activities yet</value>
+    </data>
+    <data xml:space="preserve" name="ActivityEmptyText">
+        <value>We’ll keep track of your in-app activity here so you have a record in case you need it later.</value>
+    </data>
+    <data xml:space="preserve" name="LanguageSettings">
+        <value>Language</value>
+    </data>
+    <data xml:space="preserve" name="ChangeLanguageTitle">
+        <value>Change Language</value>
+    </data>
+    <data xml:space="preserve" name="ChangeLanguageAlert">
+        <value>Do you wish to change your preferred language to Spanish? You will return to the Home screen, and the app will re-start in Spanish.</value>
+    </data>
+    <data xml:space="preserve" name="About">
+        <value>About</value>
+    </data>
+    <data xml:space="preserve" name="AboutBrandFormat">
+        <value>About {0}</value>
+    </data>
+    <data xml:space="preserve" name="TermsOfUse">
+        <value>Terms of Use</value>
+    </data>
+    <data xml:space="preserve" name="PrivacyPolicy">
+        <value>Privacy Policy</value>
+    </data>
+    <data xml:space="preserve" name="NotificationsDialogTitleHome">
+        <value>Get Job Offers</value>
+    </data>
+    <data xml:space="preserve" name="NotificationsDialogMessageHomeFormat">
+        <value>{0} can send you messages to let you know about new job offers. Would you like to allow notifications?</value>
+    </data>
+    <data xml:space="preserve" name="GiveUsYourFeedback">
+        <value>Give us your Feedback</value>
+    </data>
+    <data xml:space="preserve" name="OtherFeedback">
+        <value>Other feedback?</value>
+    </data>
+    <data xml:space="preserve" name="SendUsAnEmail">
+        <value>Love the app?  Having trouble?  Send us an email.</value>
+    </data>
+    <data xml:space="preserve" name="MailToFormat">
+        <value>mailto:{0}?subject={1}&#38;body={2}</value>
+    </data>
+    <data xml:space="preserve" name="ContactUsEmailSubjectFormat">
+        <value>{0} In-App Feedback</value>
+    </data>
+    <data xml:space="preserve" name="ContactUsEmailBodyFormat">
+        <value>
+
+
+
+-------------
+Please confirm your contact information below so we can follow up with any questions, and leave this information at the bottom of your email:
+Associate: {0} (EID: {1}, OID: {2})
+Preferred phone: {3}
+Branch: {4}
+Submitted from {5} App version {6}
+{7} version {8}</value>
+    </data>
+    <data xml:space="preserve" name="CallUs">
+        <value>Call us</value>
+    </data>
+    <data xml:space="preserve" name="LanguageChangedTitle">
+        <value>Language Changed</value>
+    </data>
+    <data xml:space="preserve" name="LanguageChangedMessage">
+        <value>Your preferred language has been changed. The app will now reload in your preferred language.</value>
+    </data>
+    <data xml:space="preserve" name="PastAssignment">
+        <value>Past Assignment</value>
+    </data>
+    <data xml:space="preserve" name="TotalHoursWorked">
+        <value>Total Hours Worked</value>
+    </data>
+    <data xml:space="preserve" name="English">
+        <value>English</value>
+    </data>
+    <data xml:space="preserve" name="Spanish">
+        <value>Spanish</value>
+    </data>
+    <data xml:space="preserve" name="SickLeave">
+        <value>Sick Leave</value>
+    </data>
+    <data xml:space="preserve" name="EndingBalance">
+        <value>Ending Balance</value>
+    </data>
+    <data xml:space="preserve" name="AccruedBalance">
+        <value>Accrued Balance</value>
+    </data>
+    <data xml:space="preserve" name="EligibleToTake">
+        <value>Eligible to Take</value>
+    </data>
+    <data xml:space="preserve" name="Taken">
+        <value>Taken</value>
+    </data>
+    <data xml:space="preserve" name="TotalHours">
+        <value>Total Hours</value>
+    </data>
+    <data xml:space="preserve" name="CompanyInformation">
+        <value>Company Information</value>
+    </data>
+    <data xml:space="preserve" name="CheckDetails">
+        <value>Check Details</value>
+    </data>
+    <data xml:space="preserve" name="BusinessAddress">
+        <value>Business Address</value>
+    </data>
+    <data xml:space="preserve" name="ViewPaystubOnline">
+        <value>View Pay Stub Online</value>
+    </data>
+    <data xml:space="preserve" name="PayPeriod">
+        <value>Pay Period</value>
+    </data>
+    <data xml:space="preserve" name="EmployeeIdFormat">
+        <value>Employee ID: {0}</value>
+    </data>
+    <data xml:space="preserve" name="Units">
+        <value>Units</value>
+    </data>
+    <data xml:space="preserve" name="ExitDemoMode">
+        <value>Exit Demo Mode</value>
+    </data>
+    <data xml:space="preserve" name="JobOfferPushTitle">
+        <value>New Job Offer</value>
+    </data>
+    <data xml:space="preserve" name="JobOfferPushDescriptionFormat">
+        <value>{0} at {1}, starting {2}. View details to accept now.</value>
+    </data>
+    <data xml:space="preserve" name="PayStubsPushTitle">
+        <value>Pay Day!</value>
+    </data>
+    <data xml:space="preserve" name="PayStubsPushDescriptionFormat">
+        <value>Your pay stub for Week Ending {0} is available. It may take up to 1 business day for funds to become available.</value>
+    </data>
+    <data xml:space="preserve" name="AssignmentReminderPushTitle">
+        <value>Assignment Reminder</value>
+    </data>
+    <data xml:space="preserve" name="AssignmentReminderPushDescriptionFormat">
+        <value>Your new assignment {0} starts tomorrow at {1}. Review your Assignment details to make sure you're prepared!</value>
+    </data>
+    <data xml:space="preserve" name="DemoModeTitle">
+        <value>Welcome to Demo Mode</value>
+    </data>
+    <data xml:space="preserve" name="DemoModeMessage">
+        <value>This demo uses sample data and isn’t connected to CRM.
+            
+To exit and reset the demo, go to “Settings” then tap “Exit Demo Mode.”</value>
+    </data>
+    <data xml:space="preserve" name="NO_DEEPLINK_TITLE">
+        <value>That's All, Folks!</value>
+    </data>
+    <data xml:space="preserve" name="NO_DEEPLINK_BODY">
+        <value>This was just a short message, and does not link to any other screen.</value>
+    </data>
+    <data xml:space="preserve" name="HiringPartner">
+        <value>Hiring Partner</value>
+    </data>
+    <data xml:space="preserve" name="CrossBrandAssignmentDescriptionFormat">
+        <value>This assignment is from our partner company, {0}.</value>
+    </data>
+    <data xml:space="preserve" name="CrossBrandAssignmentDescriptionPastFormat">
+        <value>This assignment was from our partner company, {0}.</value>
+    </data>
+    <data xml:space="preserve" name="CheckingAuthentication">
+        <value>Checking authentication</value>
+    </data>
+    <data xml:space="preserve" name="GettingAccountInfo">
+        <value>Getting account info</value>
+    </data>
+    <data xml:space="preserve" name="AlmostThere">
+        <value>Almost there</value>
+    </data>
+    <data xml:space="preserve" name="CallLocalOffice">
+        <value>Call Local Office</value>
+    </data>
+    <data xml:space="preserve" name="LoginExpiredTitle">
+        <value>Login Expired</value>
+    </data>
+    <data xml:space="preserve" name="LoginExpiredMessage">
+        <value>Your login has expired. Please log in again.</value>
+    </data>
+    <data xml:space="preserve" name="Message">
+        <value>Message</value>
+    </data>
+    <data xml:space="preserve" name="MapAppUnavailableTitle">
+        <value>Maps App Unavailable</value>
+    </data>
+    <data xml:space="preserve" name="MapAppUnavailableBody">
+        <value>We were unable to open an app for directions on your device.  The problem has been reported to our app development team.</value>
+    </data>
+    <data xml:space="preserve" name="ComingSoon">
+        <value>Coming soon!</value>
+    </data>
+    <data xml:space="preserve" name="WebBrowserUnavailableTitle">
+        <value>Web Browser Unavailable</value>
+    </data>
+    <data xml:space="preserve" name="WebBrowserUnavailableBody">
+        <value>We were unable to find a web browser on your device. Please enable or install a web browser.</value>
+    </data>
+    <data xml:space="preserve" name="CalendarUnavailableTitle">
+        <value>Calendar App Unavailable</value>
+    </data>
+    <data xml:space="preserve" name="CalendarUnavailableBody">
+        <value>We were unable to find a calendar app on your device. Please enable or install a calendar app.</value>
+    </data>
+    <data xml:space="preserve" name="ShortcutPayStubs">
+        <value>Pay Stubs</value>
+    </data>
+    <data xml:space="preserve" name="ShortcutNotification">
+        <value>Notifications</value>
+    </data>
+    <data xml:space="preserve" name="ShortcutMyAvailability">
+        <value>My Availability</value>
+    </data>
+    <data xml:space="preserve" name="ShortcutSettings">
+        <value>Settings</value>
+    </data>
+    <data xml:space="preserve" name="ShortcutContact">
+        <value>Contact {0}</value>
+    </data>
+    <data xml:space="preserve" name="EnjoyingPromptMessageFormat">
+        <value>Enjoying the {0} app?</value>
+    </data>
+    <data xml:space="preserve" name="Yes">
+        <value>Yes</value>
+    </data>
+    <data xml:space="preserve" name="NotReally">
+        <value>Not really</value>
+    </data>
+    <data xml:space="preserve" name="ReviewPromptTitle">
+        <value>Great!</value>
+    </data>
+    <data xml:space="preserve" name="ReviewPromptMessageFormat">
+        <value>Would you take a moment to rate us on the {0}?</value>
+    </data>
+    <data xml:space="preserve" name="FeedbackPromptTitle">
+        <value>How can we improve?</value>
+    </data>
+    <data xml:space="preserve" name="FeedbackPromptMessage">
+        <value>Would you mind giving us some feedback?</value>
+    </data>
+    <data xml:space="preserve" name="OkSure">
+        <value>Ok, sure</value>
+    </data>
+    <data xml:space="preserve" name="NoThanks">
+        <value>No, thanks</value>
+    </data>
+    <data xml:space="preserve" name="GooglePlayStore">
+        <value>Google Play Store</value>
+    </data>
+    <data xml:space="preserve" name="AppStore">
+        <value>App Store</value>
+    </data>
+    <data xml:space="preserve" name="FranchiseBranchNotAllowedFormat">
+        <value>The {0} app is only available in markets where the franchise owner has chosen to activate it.
+
+We hope to have the app in your area soon! Please ask your local office about roll-out plans.</value>
+    </data>
+    <data xml:space="preserve" name="Reply">
+        <value>Reply</value>
+    </data>
+    <data xml:space="preserve" name="AssignmentFeedback">
+        <value>Assignment Feedback</value>
+    </data>
+    <data xml:space="preserve" name="PendingSurvey">
+        <value>Pending Satisfaction Survey</value>
+    </data>
+    <data xml:space="preserve" name="SurveyExpiredAlertTitle">
+        <value>Survey Expired</value>
+    </data>
+    <data xml:space="preserve" name="SurveyExpiredAlertMessageFormat">
+        <value>This survey for {0} has expired.</value>
+    </data>
+    <data xml:space="preserve" name="SurveyCompletedAlertTitle">
+        <value>Survey Completed</value>
+    </data>
+    <data xml:space="preserve" name="SurveyCompletedAlertMessageFormat">
+        <value>You have already answered this survey for {0}. Thanks for your feedback!</value>
+    </data>
+    <data xml:space="preserve" name="Terrible">
+        <value>Terrible</value>
+    </data>
+    <data xml:space="preserve" name="Great">
+        <value>Great</value>
+    </data>
+    <data xml:space="preserve" name="No">
+        <value>No</value>
+    </data>
+    <data xml:space="preserve" name="WantToBeContactedFeedback">
+        <value>Want to be contacted about this feedback?</value>
+    </data>
+    <data xml:space="preserve" name="SelectHowToBeContacted">
+        <value>Select how do you want to be contacted</value>
+    </data>
+    <data xml:space="preserve" name="Email">
+        <value>Email</value>
+    </data>
+    <data xml:space="preserve" name="DontContact">
+        <value>Don't Contact</value>
+    </data>
+    <data xml:space="preserve" name="Finish">
+        <value>Finish</value>
+    </data>
+    <data xml:space="preserve" name="SurveySomethingWentWrongMessage">
+        <value>Something went wrong. Please try again in a moment.</value>
+    </data>
+    <data xml:space="preserve" name="SurveyNotFoundAlertTitle">
+        <value>Survey Not Found</value>
+    </data>
+    <data xml:space="preserve" name="SurveyNotFoundAlertMessage">
+        <value>The requested survey could not be found. It will be removed from your notifications list.</value>
+    </data>
+    <data xml:space="preserve" name="SurveyPleaseEnterValidEmailMessage">
+        <value>Please enter a valid email address</value>
+    </data>
+    <data xml:space="preserve" name="SurveyPleaseEnterValidPhoneMessage">
+        <value>Please enter a valid phone number</value>
+    </data>
+    <data xml:space="preserve" name="SurveyFinishedPositiveFeedbackTitle">
+        <value>Thanks for your feedback!</value>
+    </data>
+    <data xml:space="preserve" name="SurveyFinishedNegativeFeedbackTitle">
+        <value>Thanks for your feedback</value>
+    </data>
+    <data xml:space="preserve" name="SurveyFinishedPositiveFeedbackContactMe">
+        <value>As requested, a {0} employee will reach out about your feedback. </value>
+    </data>
+    <data xml:space="preserve" name="SurveyFinishedPositiveFeedbackDontContactMe">
+        <value>If you have any ideas about how we can make your experience even better, please let us know using the &quot;Contact Us&quot; section of the app!</value>
+    </data>
+    <data xml:space="preserve" name="SurveyFinishedNegativeFeedbackContactMe">
+        <value>A {0} employee will be reaching out soon to follow up on your concerns.</value>
+    </data>
+    <data xml:space="preserve" name="SurveyFinishedNegativeFeedbackDontContactMe">
+        <value>We are always working to give you the best experience possible. Please let us know if there’s anything else we can improve.</value>
+    </data>
+    <data xml:space="preserve" name="EmailPlaceholder">
+        <value>me@email.com</value>
+    </data>
+    <data xml:space="preserve" name="PhonePlaceholder">
+        <value>(555) 555-5555</value>
+    </data>
+    <data xml:space="preserve" name="WriteAComment">
+        <value>Write a comment</value>
+    </data>
+    <data xml:space="preserve" name="LoginWelcomePleaseSignIn">
+        <value>Welcome! Please sign in with the same account that you use on the website.</value>
+    </data>
+    <data xml:space="preserve" name="LoginOr">
+        <value>or</value>
+    </data>
+    <data xml:space="preserve" name="LoginDontHaveAnAccount">
+        <value>Don’t have an account?</value>
+    </data>
+    <data xml:space="preserve" name="DowntimeNotification">
+        <value>The {0} app and website will be offline for planned server maintenance from 12:00am CST on 6/23 (Saturday morning) through 11:59pm CST on 6/24 (Sunday evening). Thanks for your patience, and we’ll be back soon!</value>
+    </data>
+    <data xml:space="preserve" name="JobNotFoundTitle">
+        <value>Job Not Found</value>
+    </data>
+    <data xml:space="preserve" name="JobNotFoundMessage">
+        <value>The requested job could not be found. Please try again in a few minutes.
+
+If the problem continues, please call {0}.</value>
+    </data>
+    <data xml:space="preserve" name="InterviewNotFoundTitle">
+        <value>Interview Not Found</value>
+    </data>
+    <data xml:space="preserve" name="InterviewNotFoundMessage">
+        <value>The requested interview could not be found. It may have be canceled, rescheduled, or expired. You will be returned to the Home screen.</value>
+    </data>
+    <data xml:space="preserve" name="SecuritySettings">
+        <value>Security</value>
+    </data>
+    <data xml:space="preserve" name="EnableMyProfilePin">
+        <value>Enable My Profile PIN</value>
+    </data>
+    <data xml:space="preserve" name="ResetPin">
+        <value>Reset PIN</value>
+    </data>
+    <data xml:space="preserve" name="CreatePin">
+        <value>Create PIN</value>
+    </data>
+    <data xml:space="preserve" name="Skip">
+        <value>Skip</value>
+    </data>
+    <data xml:space="preserve" name="PinInfoInitialTitle">
+        <value>Let’s make your profile more secure!</value>
+    </data>
+    <data xml:space="preserve" name="PinInfoInitialText">
+        <value>Create a PIN that will be requested periodically when you visit My Profile. You can also set it up later in Settings.</value>
+    </data>
+    <data xml:space="preserve" name="IncorrectPin">
+        <value>Incorrect PIN</value>
+    </data>
+    <data xml:space="preserve" name="Choose4DigitPin">
+        <value>Choose a 4-digit PIN</value>
+    </data>
+    <data xml:space="preserve" name="DoNotRepeatTheSameDigit">
+        <value>Do not repeat the same digit more than twice.</value>
+    </data>
+    <data xml:space="preserve" name="ForgotPin">
+        <value>Forgot?</value>
+    </data>
+    <data xml:space="preserve" name="WelcomeBack">
+        <value>Welcome back!</value>
+    </data>
+    <data xml:space="preserve" name="Type4DigitPinToAccess">
+        <value>Type your 4-digit PIN to access your profile.</value>
+    </data>
+    <data xml:space="preserve" name="ConfirmPin">
+        <value>Perfect, now confirm your PIN</value>
+    </data>
+    <data xml:space="preserve" name="ReEnterPin">
+        <value>Re-enter your 4-digit PIN to confirm.</value>
+    </data>
+    <data xml:space="preserve" name="PinDoesNotMatch">
+        <value>Your PIN does not match.</value>
+    </data>
+    <data xml:space="preserve" name="PinCreatedTitle">
+        <value>Awesome, you’re all set!</value>
+    </data>
+    <data xml:space="preserve" name="PinCreatedText">
+        <value>We’ll ask you to re-enter your PIN periodically when visiting My Profile. You can always change or disable your PIN in Settings.</value>
+    </data>
+    <data xml:space="preserve" name="ForgotPinTitle">
+        <value>Forgot your PIN?</value>
+    </data>
+    <data xml:space="preserve" name="ForgotPinText">
+        <value>To reset your PIN, first type the last 4 digits of your Social Security Number.</value>
+    </data>
+    <data xml:space="preserve" name="ForgotPinError">
+        <value>Your entry does not match the last 4 digits of the Social Security Number on file.</value>
+    </data>
+    <data xml:space="preserve" name="ChangePinTitle">
+        <value>Change PIN</value>
+    </data>
+    <data xml:space="preserve" name="ChangePinText">
+        <value>To make changes to your PIN, first enter your current PIN.</value>
+    </data>
+    <data xml:space="preserve" name="AppointmentFormat">
+        <value>Appointment{0}</value>
+    </data>
+    <data xml:space="preserve" name="AppointmentStartedFormat">
+        <value>Started at{0}</value>
+    </data>
+    <data xml:space="preserve" name="AppointmentDurationFormat">
+        <value>{0} minute appointment</value>
+    </data>
+    <data xml:space="preserve" name="AppointmentDurationHourFormat">
+        <value>{0} hour appointment</value>
+    </data>
+    <data xml:space="preserve" name="Interview">
+        <value>Interview</value>
+    </data>
+    <data xml:space="preserve" name="Instructions">
+        <value>Instructions</value>
+    </data>
+    <data xml:space="preserve" name="Location">
+        <value>Location</value>
+    </data>
+    <data xml:space="preserve" name="DateAndTime">
+        <value>Date and Time</value>
+    </data>
+    <data xml:space="preserve" name="InstructionsText">
+        <value>If you are hired, you will need to provide documentation in order to be eligible for placement. Please bring documentation to verify your identity and authorization to work in the United States. Please refer to the Form I-9 Lists of Acceptable Documents for the type of documentation that is acceptable. This can be found at www.uscis.gov/i-9-central/acceptable-documents. Please note that we need original, unexpired document(s) and cannot accept copies.
+
+On the day of your interview, tap &quot;I'm Here&quot; to check in when you've arrived at the office.
+
+Please let us know if you're Running Late by tapping the button below.  Note, if you are more than 15 minutes late we will need you to reschedule for another time.
+
+If you need to cancel your appointment, tap &quot;Not Coming&quot;.</value>
+    </data>
+    <data xml:space="preserve" name="ImHere">
+        <value>I’m Here</value>
+    </data>
+    <data xml:space="preserve" name="NotComing">
+        <value>Not Coming</value>
+    </data>
+    <data xml:space="preserve" name="InterviewSnackbar">
+        <value>Please schedule an interview ASAP to move your application forward!</value>
+    </data>
+    <data xml:space="preserve" name="InterviewSnackbarFlaggedForSAS">
+        <value>We'll call you to schedule your interview soon. If you change your mind, tap &quot;Schedule&quot; to choose your own interview time.</value>
+    </data>
+    <data xml:space="preserve" name="InterviewSnackbarNoSelfScheduling">
+        <value>Please call us to schedule an interview ASAP so we can move your application forward!</value>
+    </data>
+    <data xml:space="preserve" name="InterviewSnackbarNoSelfSchedulingFlaggedForSAS">
+        <value>We'll call you to schedule your interview soon. If you would prefer to call us at your convenience to schedule, tap &quot;Call&quot;.</value>
+    </data>
+    <data xml:space="preserve" name="Schedule">
+        <value>Schedule</value>
+    </data>
+    <data xml:space="preserve" name="Welcome">
+        <value>Welcome!</value>
+    </data>
+    <data xml:space="preserve" name="WelcomeText">
+        <value>Have you arrived at the office?  
+If so, tap “Check In”, and someone 
+will be with you shortly.</value>
+    </data>
+    <data xml:space="preserve" name="NotAvailable">
+        <value>Not available</value>
+    </data>
+    <data xml:space="preserve" name="NotAvailableText">
+        <value>This option will become available shortly before your appointment time, so that you can check in when you arrive.</value>
+    </data>
+    <data xml:space="preserve" name="CheckIn">
+        <value>Check In</value>
+    </data>
+    <data xml:space="preserve" name="NeedToCancel">
+        <value>Need to cancel?</value>
+    </data>
+    <data xml:space="preserve" name="NeedToCancelText">
+        <value>Would you just like to cancel your scheduled interview for now, or would you like to both cancel and reschedule for a different time?</value>
+    </data>
+    <data xml:space="preserve" name="CancelInterview">
+        <value>Cancel Interview</value>
+    </data>
+    <data xml:space="preserve" name="CancelAndReschedule">
+        <value>Cancel and Reschedule</value>
+    </data>
+    <data xml:space="preserve" name="ThanksForCheckingIn">
+        <value>Thanks for checking in! One of our team members will be with you shortly.</value>
+    </data>
+    <data xml:space="preserve" name="ThanksForLettingUsKnow">
+        <value>Thanks for letting us know. Please update us again if you will be more than {0} minutes late, and remember to tap “I’m Here” when you arrive.</value>
+    </data>
+    <data xml:space="preserve" name="ItIsNotYetTime">
+        <value>It is not yet time to check in for your interview. Please try again within 2 hours of your appointment time.</value>
+    </data>
+    <data xml:space="preserve" name="InterviewRunningLateMessage">
+        <value>Please let us know about how late you think you’ll be.</value>
+    </data>
+    <data xml:space="preserve" name="AreYouRunningLate">
+        <value>Are you running late?</value>
+    </data>
+    <data xml:space="preserve" name="RunningLateNotAvailableMessage">
+        <value>This option will become available shortly before your appointment time, so that you can let us know if you are running a few minutes late.</value>
+    </data>
+    <data xml:space="preserve" name="InterviewLateCancelModalTitle">
+        <value>This action will cancel your interview.</value>
+    </data>
+    <data xml:space="preserve" name="InterviewLateCancelModalMessage">
+        <value>We regret that we cannot keep your appointment time if you are more than 15 minutes late. If you cancel your interview you’ll need to reschedule for another time.
+
+Do you want to cancel your interview?</value>
+    </data>
+    <data xml:space="preserve" name="InterviewNoInterviewNecessaryTitle">
+        <value>No Interview Necessary</value>
+    </data>
+    <data xml:space="preserve" name="InterviewNoInterviewNecessaryMessage">
+        <value>You do not need to schedule an interview at this time.</value>
+    </data>
+    <data xml:space="preserve" name="BetterWorklifeAcademy">
+        <value>Better WorkLife Academy</value>
+    </data>
+    <data xml:space="preserve" name="BwlaText">
+        <value>{0} has partnered with Penn Foster to provide training opportunities for you to grow your skillset. Tap to view all of the available courses. All courses are free of charge if you have worked 80 hours with us and have maintained good standing.</value>
+    </data>
+    <data xml:space="preserve" name="ViewCourses">
+        <value>View Courses</value>
+    </data>
+    <data xml:space="preserve" name="ContinueWithIndeed">
+        <value>Continue with Indeed</value>
+    </data>
+    <data xml:space="preserve" name="Indeed">
+        <value>Indeed</value>
+    </data>
+    <data xml:space="preserve" name="Open">
+        <value>Open</value>
+    </data>
+    <data xml:space="preserve" name="Test">
+        <value>test</value>
+    </data>
+</root>
